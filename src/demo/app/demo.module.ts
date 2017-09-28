@@ -18,6 +18,7 @@ import {HttpClientModule} from '@angular/common/http';
 import {MockApplicationsService} from '../../mock-services/applications.mock.service';
 import {CBP_USER_SERVICE} from '../../app/user/user';
 import {CBP_APPLICATIONS_SERVICE, CBPApplication} from '../../app/applications/cbp-applications-service';
+import {DemoFormsModule} from './demo-forms/demo-forms.module';
 
 
 
@@ -38,7 +39,8 @@ import {CBP_APPLICATIONS_SERVICE, CBPApplication} from '../../app/applications/c
       // CBPProgressModule,
       // demo
       DemoButtonsModule,
-      DemoAppHeaderModule
+      DemoAppHeaderModule,
+      DemoFormsModule
   ],
   exports: [DemoButtonsModule, DemoAppHeaderModule],
   providers: [
