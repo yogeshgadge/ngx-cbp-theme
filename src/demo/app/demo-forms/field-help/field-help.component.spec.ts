@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { AdditionalHintComponent } from './additional-hint.component';
+import { CBPFieldHelpComponent } from './field-help.component';
 
-describe('AdditionalHintComponent', () => {
-  let component: AdditionalHintComponent;
-  let fixture: ComponentFixture<AdditionalHintComponent>;
+describe('CBPFieldHelpComponent', () => {
+  let component: CBPFieldHelpComponent;
+  let fixture: ComponentFixture<CBPFieldHelpComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ AdditionalHintComponent ]
+      declarations: [ CBPFieldHelpComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(AdditionalHintComponent);
+    fixture = TestBed.createComponent(CBPFieldHelpComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

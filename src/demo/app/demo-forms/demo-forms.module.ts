@@ -7,7 +7,8 @@ import {
 } from '@angular/material';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import { ExclaimBeforeErrorComponent } from './exclaim-before-error/exclaim-before-error.component';
-import { AdditionalHintComponent } from './additional-hint/additional-hint.component';
+import { CBPFieldHelpComponent } from './field-help/field-help.component';
+import { CBPFormFieldComponent } from './cbp-form-field/cbp-form-field.component';
 
 @NgModule({
     imports: [
@@ -20,7 +21,7 @@ import { AdditionalHintComponent } from './additional-hint/additional-hint.compo
         MdButtonModule
     ],
     exports: [DemoFormsComponent],
-    declarations: [DemoFormsComponent, ExclaimBeforeErrorComponent, AdditionalHintComponent],
+    declarations: [DemoFormsComponent, ExclaimBeforeErrorComponent, CBPFieldHelpComponent, CBPFormFieldComponent],
     providers: [
         {provide: MD_ERROR_GLOBAL_OPTIONS, useValue: {errorStateMatcher: showOnDirtyErrorStateMatcher}}
     ]
