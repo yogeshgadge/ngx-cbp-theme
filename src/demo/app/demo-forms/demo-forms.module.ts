@@ -2,8 +2,9 @@ import {NgModule} from '@angular/core';
 import {CommonModule} from '@angular/common';
 import {DemoFormsComponent} from './demo-forms.component';
 import {
-    MD_ERROR_GLOBAL_OPTIONS, MdButtonModule, MdFormFieldModule, MdIconModule, MdInputModule,
-    showOnDirtyErrorStateMatcher
+    ErrorStateMatcher,
+    MatButtonModule, MatFormFieldModule, MatIconModule, MatInputModule,
+    ShowOnDirtyErrorStateMatcher
 } from '@angular/material';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import { ExclaimBeforeErrorComponent } from './exclaim-before-error/exclaim-before-error.component';
@@ -13,17 +14,17 @@ import { CBPFormFieldComponent } from './cbp-form-field/cbp-form-field.component
 @NgModule({
     imports: [
         CommonModule,
-        MdFormFieldModule,
-        MdInputModule,
+        MatFormFieldModule,
+        MatInputModule,
         FormsModule,
         ReactiveFormsModule,
-        MdIconModule,
-        MdButtonModule
+        MatIconModule,
+        MatButtonModule
     ],
     exports: [DemoFormsComponent],
     declarations: [DemoFormsComponent, ExclaimBeforeErrorComponent, CBPFieldHelpComponent, CBPFormFieldComponent],
     providers: [
-        {provide: MD_ERROR_GLOBAL_OPTIONS, useValue: {errorStateMatcher: showOnDirtyErrorStateMatcher}}
+        {provide: ErrorStateMatcher, useClass: ShowOnDirtyErrorStateMatcher}
     ]
 })
 export class DemoFormsModule {

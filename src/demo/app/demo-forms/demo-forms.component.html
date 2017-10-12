@@ -1,42 +1,14 @@
 <h1>Forms</h1>
 <form class="example-form">
-  <md-form-field class="example-full-width">
-    <input type="text" mdInput placeholder="5 digit number (required)" [formControl]="fiveDigitNumberCtrl">
-    <cbp-field-hint mdSuffix></cbp-field-hint>
-    <md-hint align="start"><strong>Type letters to see warning</strong></md-hint>
-    <md-error *ngIf="fiveDigitNumberCtrl.hasError('max')">Number cannot be more than 5 digits.</md-error>
-    <md-error *ngIf="fiveDigitNumberCtrl.hasError('pattern')">Must be a number.</md-error>
-    <md-error *ngIf="fiveDigitNumberCtrl.hasError('required')">Required</md-error>
-  </md-form-field>
 
-  <cbp-form-field>
-    <md-form-field class="example-full-width">
-      <input type="text" mdInput placeholder="5 digit number (required)" [formControl]="fiveDigitNumberCtrl">
-      <md-hint align="start"><strong>Type letters to see warning</strong></md-hint>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('max')">Number cannot be more than 5 digits.</md-error>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('pattern')">Must be a number.</md-error>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('required')">Required</md-error>
-    </md-form-field>
-  </cbp-form-field>
 
-  <cbp-form-field>
-    <md-form-field class="example-full-width">
-      <input type="text" mdInput placeholder="5 digit number (required)" [formControl]="fiveDigitNumberCtrl">
-      <md-hint align="start"><strong>Type letters to see warning</strong></md-hint>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('max')">Number cannot be more than 5 digits.</md-error>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('pattern')">Must be a number.</md-error>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('required')">Required</md-error>
-    </md-form-field>
-  </cbp-form-field>
-
-  <cbp-form-field>
-    <md-form-field class="example-full-width">
-      <input type="text" mdInput placeholder="5 digit number (required)" [formControl]="fiveDigitNumberCtrl">
-      <md-hint align="start"><strong>Type letters to see warning</strong></md-hint>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('max')">Number cannot be more than 5 digits.</md-error>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('pattern')">Must be a number.</md-error>
-      <md-error *ngIf="fiveDigitNumberCtrl.hasError('required')">Required</md-error>
-    </md-form-field>
-  </cbp-form-field>
+    <mat-form-field class="example-full-width">
+      <cbp-field-hint></cbp-field-hint>
+      <input type="text" matInput placeholder="5 digit number (required)" [formControl]="fiveDigitNumberCtrl">
+      <mat-hint align="start"><strong>Type letters to see warning</strong></mat-hint>
+      <mat-error *ngIf="fiveDigitNumberCtrl.hasError('max')">Number cannot be more than 5 digits.</mat-error>
+      <mat-error *ngIf="fiveDigitNumberCtrl.hasError('pattern')">Must be a number.</mat-error>
+      <mat-error *ngIf="fiveDigitNumberCtrl.hasError('required')">Required</mat-error>
+    </mat-form-field>
 
 </form>
