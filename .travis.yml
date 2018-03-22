@@ -12,6 +12,7 @@ addons:
 branches:
   only:
   - master
+  - /^greenkeeper/.*$/
 node_js:
   - 8
 install:
