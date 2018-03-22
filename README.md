@@ -1,5 +1,7 @@
 # ngx-cbp-theme
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yogeshgadge/ngx-cbp-theme.svg)](https://greenkeeper.io/)
+
 
 [![npm version](https://badge.fury.io/js/ngx-cbp-theme.svg)](https://www.npmjs.com/package/ngx-cbp-theme)
 [![build Status](https://travis-ci.org/US-CBP/ngx-cbp-theme.svg?branch=master)](https://travis-ci.org/US-CBP/ngx-cbp-theme)
