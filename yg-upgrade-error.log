@@ -1,0 +1,541 @@
+C:\projects\ngx-cbp-theme>ng update @angular/material
+    Updating package.json with dependency @angular/cdk @ "6.0.2" (was "5.0.3")...
+    Updating package.json with dependency @angular/material @ "6.0.2" (was "5.0.3")...
+UPDATE package.json (3196 bytes)
+
+> ngx-cbp-theme@2.2.6 postinstall C:\projects\ngx-cbp-theme
+> node postinstall.js
+
+npm WARN @angular/compiler-cli@6.0.2 requires a peer of typescript@>=2.7.2 <2.8 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of @angular/core@~5.1.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of @angular/common@~5.1.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of rxjs@^5.5.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @ngtools/webpack@6.0.3 requires a peer of typescript@~2.4.0 || ~2.5.0 || ~2.6.0 || ~2.7.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ajv-keywords@3.2.0 requires a peer of ajv@^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/platform-browser-dynamic@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/platform-browser@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/common@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ts-simple-ast@0.86.0 requires a peer of typescript@2.6.1 but none is installed. You must install peer dependencies yourself.
+npm WARN tsickle@0.27.5 requires a peer of typescript@>=2.4.2 <2.8 but none is installed. You must install peer dependencies yourself.
+npm WARN The package replace is included as both a dev and production dependency.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+updated 2 packages in 20.539s
+[!] 30 vulnerabilities found [24936 packages audited]
+    Severity: 3 Low | 21 Moderate | 6 High
+    Run `npm audit` for more detail
+
+CREATE angular_material_schematics-DbqpbG/collection.json (1251 bytes)
+CREATE angular_material_schematics-DbqpbG/migration.json (644 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/index.js (1334 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/index.js.map (879 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/schema.js (111 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/schema.js.map (135 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/schema.json (2517 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.html (927 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.spec.ts (717 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.ts (2321 bytes)
+CREATE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.__styleext__ (254 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/index.js (1432 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/index.js.map (940 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/schema.js (111 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/schema.js.map (129 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/schema.json (2505 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.html (945 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.spec.ts (717 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.ts (2222 bytes)
+CREATE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.__styleext__ (110 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/custom-theme.js (1596 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/custom-theme.js.map (382 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/index.js (3508 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/index.js.map (2350 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/schema.js (111 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/schema.js.map (131 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/schema.json (558 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/theming.js (4181 bytes)
+CREATE angular_material_schematics-DbqpbG/shell/theming.js.map (3312 bytes)
+CREATE angular_material_schematics-DbqpbG/table/index.js (1143 bytes)
+CREATE angular_material_schematics-DbqpbG/table/index.js.map (745 bytes)
+CREATE angular_material_schematics-DbqpbG/table/schema.js (111 bytes)
+CREATE angular_material_schematics-DbqpbG/table/schema.js.map (131 bytes)
+CREATE angular_material_schematics-DbqpbG/table/schema.json (2509 bytes)
+CREATE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__-datasource.ts (3486 bytes)
+CREATE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.html (893 bytes)
+CREATE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.spec.ts (717 bytes)
+CREATE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.ts (2221 bytes)
+CREATE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.__styleext__ (0 bytes)
+CREATE angular_material_schematics-DbqpbG/update/update.js (6047 bytes)
+CREATE angular_material_schematics-DbqpbG/update/update.js.map (3916 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/color.js (540 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/color.js.map (532 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/component-data.js (1579 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/component-data.js.map (999 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/extra-stylsheets.js (187 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/extra-stylsheets.js.map (199 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/typescript-specifiers.js (1253 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/typescript-specifiers.js.map (725 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/attribute-selectors.json (280 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/class-names.json (1091 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/css-names.json (2113 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/element-selectors.json (194 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/export-as-names.json (2 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/input-names.json (4998 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/method-call-checks.json (2271 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/output-names.json (1955 bytes)
+CREATE angular_material_schematics-DbqpbG/update/material/data/property-names.json (7385 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkClassDeclarationMiscRule.js (1631 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkClassDeclarationMiscRule.js.map (1259 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkIdentifierMiscRule.js (1347 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkIdentifierMiscRule.js.map (895 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkImportMiscRule.js (1300 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkImportMiscRule.js.map (902 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkInheritanceRule.js (1705 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkInheritanceRule.js.map (1224 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkMethodCallsRule.js (3429 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkMethodCallsRule.js.map (2917 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkPropertyAccessMiscRule.js (2508 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkPropertyAccessMiscRule.js.map (1669 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkTemplateMiscRule.js (3481 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/checkTemplateMiscRule.js.map (2614 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchIdentifiersRule.js (5656 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchIdentifiersRule.js.map (3513 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchPropertyNamesRule.js (2603 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchPropertyNamesRule.js.map (1883 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralAttributeSelectorsRule.js (1890 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralAttributeSelectorsRule.js.map (1360 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralCssNamesRule.js (1868 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralCssNamesRule.js.map (1397 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralElementSelectorsRule.js (1852 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralElementSelectorsRule.js.map (1318 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetAttributeSelectorsRule.js (3398 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetAttributeSelectorsRule.js.map (2412 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetCssNamesRule.js (3224 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetCssNamesRule.js.map (2364 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetElementSelectorsRule.js (3190 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetElementSelectorsRule.js.map (2283 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetInputNamesRule.js (3344 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetInputNamesRule.js.map (2480 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetOutputNamesRule.js (3351 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchStylesheetOutputNamesRule.js.map (2484 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateAttributeSelectorsRule.js (2917 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateAttributeSelectorsRule.js.map (2091 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateCssNamesRule.js (2655 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateCssNamesRule.js.map (2081 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateElementSelectorsRule.js (2850 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateElementSelectorsRule.js.map (2035 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateExportAsNamesRule.js (2590 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateExportAsNamesRule.js.map (1994 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateInputNamesRule.js (3168 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateInputNamesRule.js.map (2634 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateOutputNamesRule.js (3177 bytes)
+CREATE angular_material_schematics-DbqpbG/update/rules/switchTemplateOutputNamesRule.js.map (2636 bytes)
+CREATE angular_material_schematics-DbqpbG/update/tslint/component-file.js (795 bytes)
+CREATE angular_material_schematics-DbqpbG/update/tslint/component-file.js.map (613 bytes)
+CREATE angular_material_schematics-DbqpbG/update/tslint/component-walker.js (4891 bytes)
+CREATE angular_material_schematics-DbqpbG/update/tslint/component-walker.js.map (3845 bytes)
+CREATE angular_material_schematics-DbqpbG/update/tslint/find-tslint-binary.js (656 bytes)
+CREATE angular_material_schematics-DbqpbG/update/tslint/find-tslint-binary.js.map (570 bytes)
+CREATE angular_material_schematics-DbqpbG/update/typescript/identifiers.js (521 bytes)
+CREATE angular_material_schematics-DbqpbG/update/typescript/identifiers.js.map (471 bytes)
+CREATE angular_material_schematics-DbqpbG/update/typescript/imports.js (1835 bytes)
+CREATE angular_material_schematics-DbqpbG/update/typescript/imports.js.map (1285 bytes)
+CREATE angular_material_schematics-DbqpbG/update/typescript/literal.js (3618 bytes)
+CREATE angular_material_schematics-DbqpbG/update/typescript/literal.js.map (3040 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/ast.js (4170 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/ast.js.map (3197 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/html.js (2108 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/html.js.map (1694 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/lib-versions.js (219 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/lib-versions.js.map (236 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/package.js (677 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/package.js.map (803 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/testing.js (871 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/testing.js.map (619 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/ast-utils.js (15472 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/ast-utils.js.map (13349 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/change.js (3119 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/change.js.map (3010 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/component.js (4713 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/component.js.map (4337 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/config.js (2305 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/config.js.map (1545 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/find-module.js (3517 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/find-module.js.map (3303 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/ng-ast-utils.js (3233 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/ng-ast-utils.js.map (2637 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/parse-name.js (640 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/parse-name.js.map (448 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/route-utils.js (3478 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/route-utils.js.map (2796 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/validation.js (663 bytes)
+CREATE angular_material_schematics-DbqpbG/utils/devkit-utils/validation.js.map (397 bytes)
+npm WARN rollback Rolling back node-pre-gyp@0.10.0 failed (this is probably harmless): EPERM: operation not permitted, scandir 'C:\projects\ngx-cbp-theme\node_modules\fsevents\node_modules'
+npm WARN @angular/compiler-cli@6.0.2 requires a peer of typescript@>=2.7.2 <2.8 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of @angular/core@~5.1.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of @angular/common@~5.1.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of rxjs@^5.5.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @ngtools/webpack@6.0.3 requires a peer of typescript@~2.4.0 || ~2.5.0 || ~2.6.0 || ~2.7.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ajv-keywords@3.2.0 requires a peer of ajv@^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/platform-browser-dynamic@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/platform-browser@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/common@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ts-simple-ast@0.86.0 requires a peer of typescript@2.6.1 but none is installed. You must install peer dependencies yourself.
+npm WARN tsickle@0.27.5 requires a peer of typescript@>=2.4.2 <2.8 but none is installed. You must install peer dependencies yourself.
+npm WARN The package replace is included as both a dev and production dependency.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @angular/cdk@5.2.5
++ @angular/material@5.2.5
+updated 2 packages in 20.594s
+[!] 30 vulnerabilities found [24936 packages audited]
+    Severity: 3 Low | 21 Moderate | 6 High
+    Run `npm audit` for more detail
+
+TypeError: Cannot read property 'name' of undefined
+    at component_data_1.propertyNames.find.data (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\rules\checkInheritanceRule.js:22:141)
+    at Array.find (<anonymous>)
+    at baseTypes.forEach.t (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\rules\checkInheritanceRule.js:22:65)
+    at Array.forEach (<anonymous>)
+    at CheckInheritanceWalker.visitClassDeclaration (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\rules\checkInheritanceRule.js:21:19)
+    at CheckInheritanceWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14220:24)
+    at CheckInheritanceWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+            Fixed 1 error(s) in src/app/applications/_global-overrides.scss
+            Fixed 1 error(s) in src/app/applications/applications-search/applications-search.component.scss
+            Fixed 1 error(s) in C:/projects/ngx-cbp-theme/src/app/applications/applications-search/applications-search.component.html
+
+
+TypeError: directiveMetadata.properties is not iterable
+    at SwitchStylesheetAtributeSelectorsWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchStylesheetAtributeSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchStylesheetAtributeSelectorsWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchStylesheetAtributeSelectorsWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchStylesheetAtributeSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchStylesheetCssNamesWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchStylesheetCssNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchStylesheetCssNamesWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchStylesheetCssNamesWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchStylesheetCssNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchStylesheetElementSelectorsWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchStylesheetElementSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchStylesheetElementSelectorsWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchStylesheetElementSelectorsWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchStylesheetElementSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchStylesheetInputNamesWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchStylesheetInputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchStylesheetInputNamesWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchStylesheetInputNamesWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchStylesheetInputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchStylesheetOutputNamesWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchStylesheetOutputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchStylesheetOutputNamesWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchStylesheetOutputNamesWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchStylesheetOutputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchTemplateAttributeSelectorsWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchTemplateAttributeSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchTemplateAttributeSelectorsWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchTemplateAttributeSelectorsWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchTemplateAttributeSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchTemplateCaaNamesWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchTemplateCaaNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchTemplateCaaNamesWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchTemplateCaaNamesWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchTemplateCaaNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchTemplateElementSelectorsWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchTemplateElementSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchTemplateElementSelectorsWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchTemplateElementSelectorsWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchTemplateElementSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchTemplateExportAsNamesWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchTemplateExportAsNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchTemplateExportAsNamesWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchTemplateExportAsNamesWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchTemplateExportAsNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchTemplateInputNamesWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchTemplateInputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchTemplateInputNamesWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchTemplateInputNamesWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchTemplateInputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchTemplateOutputNamesWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchTemplateOutputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchTemplateOutputNamesWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchTemplateOutputNamesWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchTemplateOutputNamesWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'flags' of undefined
+    at Object.getBaseTypes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:29872:38)
+    at CheckInheritanceWalker.visitClassDeclaration (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\rules\checkInheritanceRule.js:20:49)
+    at CheckInheritanceWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:314:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14220:24)
+    at CheckInheritanceWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at CheckInheritanceWalker.SyntaxWalker.visitSourceFile (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:228:14)
+    at CheckInheritanceWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:482:22)
+    at CheckInheritanceWalker.SyntaxWalker.walk (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:24:14)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at CheckTemplateMiscWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at CheckTemplateMiscWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at CheckTemplateMiscWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at CheckTemplateMiscWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at CheckTemplateMiscWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+TypeError: Cannot read property 'Symbol(Symbol.iterator)' of undefined
+    at SwitchStylesheetAtributeSelectorsWalker._visitDirectiveCallExpression (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:40:50)
+    at SwitchStylesheetAtributeSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:30:22)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNode (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:13997:24)
+    at Object.forEachChild (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14285:24)
+    at SwitchStylesheetAtributeSelectorsWalker.SyntaxWalker.walkChildren (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:12)
+    at SwitchStylesheetAtributeSelectorsWalker.SyntaxWalker.visitNode (C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:530:22)
+    at SwitchStylesheetAtributeSelectorsWalker.visitNode (C:\projects\ngx-cbp-theme\angular_material_schematics-DbqpbG\update\tslint\component-walker.js:33:15)
+    at C:\projects\ngx-cbp-theme\node_modules\tslint\lib\language\walker\syntaxWalker.js:535:63
+    at visitNodes (C:\projects\ngx-cbp-theme\node_modules\typescript\lib\typescript.js:14006:30)
+
+
+npm WARN @angular/compiler-cli@6.0.2 requires a peer of typescript@>=2.7.2 <2.8 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of @angular/core@~5.1.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of @angular/common@~5.1.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @angular/flex-layout@2.0.0-beta.12 requires a peer of rxjs@^5.5.0 but none is installed. You must install peer dependencies yourself.
+npm WARN @ngtools/webpack@6.0.3 requires a peer of typescript@~2.4.0 || ~2.5.0 || ~2.6.0 || ~2.7.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ajv-keywords@3.2.0 requires a peer of ajv@^6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/platform-browser-dynamic@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/platform-browser@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN codelyzer@4.0.2 requires a peer of @angular/common@^2.3.1 || >=4.0.0-beta <6.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN ts-simple-ast@0.86.0 requires a peer of typescript@2.6.1 but none is installed. You must install peer dependencies yourself.
+npm WARN tsickle@0.27.5 requires a peer of typescript@>=2.4.2 <2.8 but none is installed. You must install peer dependencies yourself.
+npm WARN The package replace is included as both a dev and production dependency.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.4 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.4: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ @angular/cdk@6.0.0
++ @angular/material@6.0.0
+updated 2 packages in 21.609s
+[!] 30 vulnerabilities found [24936 packages audited]
+    Severity: 3 Low | 21 Moderate | 6 High
+    Run `npm audit` for more detail
+
+DELETE angular_material_schematics-DbqpbG/collection.json
+DELETE angular_material_schematics-DbqpbG/migration.json
+DELETE angular_material_schematics-DbqpbG/dashboard/index.js
+DELETE angular_material_schematics-DbqpbG/dashboard/index.js.map
+DELETE angular_material_schematics-DbqpbG/dashboard/schema.js
+DELETE angular_material_schematics-DbqpbG/dashboard/schema.js.map
+DELETE angular_material_schematics-DbqpbG/dashboard/schema.json
+DELETE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.html
+DELETE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.spec.ts
+DELETE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.ts
+DELETE angular_material_schematics-DbqpbG/dashboard/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.__styleext__
+DELETE angular_material_schematics-DbqpbG/nav/index.js
+DELETE angular_material_schematics-DbqpbG/nav/index.js.map
+DELETE angular_material_schematics-DbqpbG/nav/schema.js
+DELETE angular_material_schematics-DbqpbG/nav/schema.js.map
+DELETE angular_material_schematics-DbqpbG/nav/schema.json
+DELETE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.html
+DELETE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.spec.ts
+DELETE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.ts
+DELETE angular_material_schematics-DbqpbG/nav/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.__styleext__
+DELETE angular_material_schematics-DbqpbG/shell/custom-theme.js
+DELETE angular_material_schematics-DbqpbG/shell/custom-theme.js.map
+DELETE angular_material_schematics-DbqpbG/shell/index.js
+DELETE angular_material_schematics-DbqpbG/shell/index.js.map
+DELETE angular_material_schematics-DbqpbG/shell/schema.js
+DELETE angular_material_schematics-DbqpbG/shell/schema.js.map
+DELETE angular_material_schematics-DbqpbG/shell/schema.json
+DELETE angular_material_schematics-DbqpbG/shell/theming.js
+DELETE angular_material_schematics-DbqpbG/shell/theming.js.map
+DELETE angular_material_schematics-DbqpbG/table/index.js
+DELETE angular_material_schematics-DbqpbG/table/index.js.map
+DELETE angular_material_schematics-DbqpbG/table/schema.js
+DELETE angular_material_schematics-DbqpbG/table/schema.js.map
+DELETE angular_material_schematics-DbqpbG/table/schema.json
+DELETE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__-datasource.ts
+DELETE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.html
+DELETE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.spec.ts
+DELETE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.ts
+DELETE angular_material_schematics-DbqpbG/table/files/__path__/__name@dasherize@if-flat__/__name@dasherize__.component.__styleext__
+DELETE angular_material_schematics-DbqpbG/update/update.js
+DELETE angular_material_schematics-DbqpbG/update/update.js.map
+DELETE angular_material_schematics-DbqpbG/update/material/color.js
+DELETE angular_material_schematics-DbqpbG/update/material/color.js.map
+DELETE angular_material_schematics-DbqpbG/update/material/component-data.js
+DELETE angular_material_schematics-DbqpbG/update/material/component-data.js.map
+DELETE angular_material_schematics-DbqpbG/update/material/extra-stylsheets.js
+DELETE angular_material_schematics-DbqpbG/update/material/extra-stylsheets.js.map
+DELETE angular_material_schematics-DbqpbG/update/material/typescript-specifiers.js
+DELETE angular_material_schematics-DbqpbG/update/material/typescript-specifiers.js.map
+DELETE angular_material_schematics-DbqpbG/update/material/data/attribute-selectors.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/class-names.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/css-names.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/element-selectors.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/export-as-names.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/input-names.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/method-call-checks.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/output-names.json
+DELETE angular_material_schematics-DbqpbG/update/material/data/property-names.json
+DELETE angular_material_schematics-DbqpbG/update/rules/checkClassDeclarationMiscRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/checkClassDeclarationMiscRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/checkIdentifierMiscRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/checkIdentifierMiscRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/checkImportMiscRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/checkImportMiscRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/checkInheritanceRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/checkInheritanceRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/checkMethodCallsRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/checkMethodCallsRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/checkPropertyAccessMiscRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/checkPropertyAccessMiscRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/checkTemplateMiscRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/checkTemplateMiscRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchIdentifiersRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchIdentifiersRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchPropertyNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchPropertyNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralAttributeSelectorsRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralAttributeSelectorsRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralCssNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralCssNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralElementSelectorsRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStringLiteralElementSelectorsRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetAttributeSelectorsRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetAttributeSelectorsRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetCssNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetCssNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetElementSelectorsRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetElementSelectorsRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetInputNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetInputNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetOutputNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchStylesheetOutputNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateAttributeSelectorsRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateAttributeSelectorsRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateCssNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateCssNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateElementSelectorsRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateElementSelectorsRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateExportAsNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateExportAsNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateInputNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateInputNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateOutputNamesRule.js
+DELETE angular_material_schematics-DbqpbG/update/rules/switchTemplateOutputNamesRule.js.map
+DELETE angular_material_schematics-DbqpbG/update/tslint/component-file.js
+DELETE angular_material_schematics-DbqpbG/update/tslint/component-file.js.map
+DELETE angular_material_schematics-DbqpbG/update/tslint/component-walker.js
+DELETE angular_material_schematics-DbqpbG/update/tslint/component-walker.js.map
+DELETE angular_material_schematics-DbqpbG/update/tslint/find-tslint-binary.js
+DELETE angular_material_schematics-DbqpbG/update/tslint/find-tslint-binary.js.map
+DELETE angular_material_schematics-DbqpbG/update/typescript/identifiers.js
+DELETE angular_material_schematics-DbqpbG/update/typescript/identifiers.js.map
+DELETE angular_material_schematics-DbqpbG/update/typescript/imports.js
+DELETE angular_material_schematics-DbqpbG/update/typescript/imports.js.map
+DELETE angular_material_schematics-DbqpbG/update/typescript/literal.js
+DELETE angular_material_schematics-DbqpbG/update/typescript/literal.js.map
+DELETE angular_material_schematics-DbqpbG/utils/ast.js
+DELETE angular_material_schematics-DbqpbG/utils/ast.js.map
+DELETE angular_material_schematics-DbqpbG/utils/html.js
+DELETE angular_material_schematics-DbqpbG/utils/html.js.map
+DELETE angular_material_schematics-DbqpbG/utils/lib-versions.js
+DELETE angular_material_schematics-DbqpbG/utils/lib-versions.js.map
+DELETE angular_material_schematics-DbqpbG/utils/package.js
+DELETE angular_material_schematics-DbqpbG/utils/package.js.map
+DELETE angular_material_schematics-DbqpbG/utils/testing.js
+DELETE angular_material_schematics-DbqpbG/utils/testing.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/ast-utils.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/ast-utils.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/change.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/change.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/component.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/component.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/config.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/config.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/find-module.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/find-module.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/ng-ast-utils.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/ng-ast-utils.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/parse-name.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/parse-name.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/route-utils.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/route-utils.js.map
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/validation.js
+DELETE angular_material_schematics-DbqpbG/utils/devkit-utils/validation.js.map
+
+Complete! Please check the output above for any issues that were detected but could not be automatically fixed.
